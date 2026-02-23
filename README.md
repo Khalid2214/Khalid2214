@@ -4,6 +4,7 @@
 🤖 Machine Learning Enthusiast  
 🚀 Backend Developer  
 
+<marquee>Always learning, always improving 🚀</marquee>
 ---
 
 ## 🔥 Tech Stack
