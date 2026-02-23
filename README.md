@@ -7,7 +7,7 @@
 🚀 Backend Developer 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=black&size=22&center=true&vCenter=true&width=600&lines=Computer+Engineer;Machine+Learning+Enthusiast;Backend+Developer;Always+learning,+always+improving!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=brown&size=22&center=true&vCenter=true&width=600&lines=Always+learning,+always+improving!" />
 </p>
 ---
 
