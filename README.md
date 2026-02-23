@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi👋 I'm Khalid Shabir
+
+💻 Aspiring Software Developer  
+🤖 Machine Learning Enthusiast  
+🚀 Backend Developer  
+
+---
+
+## 🔥 Tech Stack
+
+- Python
+- FastAPI
+- Statistics
+- Machine Learning
+
+---
+
+## 📫 Connect With Me
+
+-
+- khalidshabir68@gmail.com
 
 <!--
 **Khalid2214/Khalid2214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
