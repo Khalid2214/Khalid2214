@@ -1,10 +1,14 @@
-## Hi! I'm Khalid Shabir
+## 
 
 💻 Aspiring Software Developer  
 🤖 Machine Learning Enthusiast  
 🚀 Backend Developer  
 
-<marquee>Always learning, always improving 🚀</marquee>
+<h1 align="center">Hi! I'm Khalid Shabir</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=blue&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Backend+Developer;Always+learning,+always+improving!" />
+</p>
 ---
 
 ## 🔥 Tech Stack
