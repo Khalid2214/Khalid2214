@@ -17,7 +17,6 @@
 
 ## 📫 Connect With Me
 
--
 - khalidshabir68@gmail.com
 
 <!--
