@@ -1,10 +1,10 @@
-## 
+##  
+
+<h1 align="center">Hi! I'm Khalid Shabir</h1>
 
 💻 Aspiring Software Developer  
 🤖 Machine Learning Enthusiast  
-🚀 Backend Developer  
-
-<h1 align="center">Hi! I'm Khalid Shabir</h1>
+🚀 Backend Developer 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Backend+Developer;Always+learning,+always+improving!" />
