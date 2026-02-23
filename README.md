@@ -1,4 +1,4 @@
-## Hi👋 I'm Khalid Shabir
+## Hi! I'm Khalid Shabir
 
 💻 Aspiring Software Developer  
 🤖 Machine Learning Enthusiast  
