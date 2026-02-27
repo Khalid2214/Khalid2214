@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi! I'm Khalid Shabir</h1>
 
-💻 Data Analyst/Scientist <br>
+💻 Data Scientist <br>
 🤖 Machine Learning Enthusiast  
 🚀 Backend Developer 
 
